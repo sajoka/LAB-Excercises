@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="50dp"
+    android:layout_width="match_parent">
+
+    <item android:id="@+id/menu_red"
+        android:title="Red" />
+    <item android:id="@+id/menu_blue"
+        android:title="Blue" />
+    <item android:id="@+id/menu_yellow"
+        android:title="Yellow" />
+    <item android:id="@+id/menu_green"
+        android:title="Green" />
+
+</menu>

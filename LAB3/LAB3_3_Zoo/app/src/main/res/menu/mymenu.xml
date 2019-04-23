@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="50dp"
+    android:layout_width="match_parent">
+
+    <item android:id="@+id/menu_mammals"
+        android:title="Mammmals" />
+    <item android:id="@+id/menu_birds"
+        android:title="Birds" />
+
+</menu>
